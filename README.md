@@ -37,7 +37,7 @@ lien vers une documentation plus complète
 
 -cours de rédaction.
 
-#Ajout prévu pour la Version 2.8
+#Ajout  Version 2.8
 
 -Optimisation Visuel du code Source
 
